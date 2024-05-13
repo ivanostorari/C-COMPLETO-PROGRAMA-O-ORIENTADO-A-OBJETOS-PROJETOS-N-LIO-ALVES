@@ -1,0 +1,14 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\bin\Debug\net6.0\CursoNelioEx2.exe
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\bin\Debug\net6.0\CursoNelioEx2.deps.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\bin\Debug\net6.0\CursoNelioEx2.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\bin\Debug\net6.0\CursoNelioEx2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\bin\Debug\net6.0\CursoNelioEx2.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\refint\CursoNelioEx2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\CursoNelioEx2.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioEx2\CursoNelioEx2\obj\Debug\net6.0\ref\CursoNelioEx2.dll

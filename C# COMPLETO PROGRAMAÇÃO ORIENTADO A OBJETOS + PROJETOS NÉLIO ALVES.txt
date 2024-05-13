@@ -1,0 +1,141 @@
+C# COMPLETO Programação Orientada a Objetos + Projetos.
+
+* Seção 1.
+
+Apresentação do curso e orientações.
+
+-> 1. Visão geral do curso.
+-> 2. O que estudar para me tornar um desenvolvedor?
+-> 3. Será que preciso fazer um curso de Lógica?
+
+* Seção 2.
+
+Introdução a C# e .NET.
+
+-> 4. Visão geral do capítulo.
+-> 5. Material de apoio do capítulo.
+-> 6. C# e .NET.
+-> 7. Compilação e interpretação.
+-> 8. Estrutura de uma aplicação C#.
+-> 9. Instalação do Visual Studio Community.
+-> 10. Primeiro programa C# no Visual Studio.
+-> 11. Estrutura básica de um programa .
+-> 12. Dicas do Visual Studio.
+
+* Seção 3.
+
+Recapitulação de Lógica de Programação usando C#.
+
+-> 13. Visão geral do capítulo.
+-> 14. Material de apoio do capítulo.
+-> 15. Tipos básicos de dados em C# - PARTE 1.
+-> 16. Tipos básicos de dados em C# - PARTE 2. 
+-> 17. Restrições e convenções para nomes.
+-> 18. Saída de dados em C#.
+-> 19. Operadores de atribuição.
+-> 20. Conversão implícita e casting.
+-> 21. Operadores aritméticos.
+-> 22. Entrada de dados em C# - PARTE 1.
+-> 23. Entrada de dados em C# - PARTE 2.
+-> 24. Exercícios propostos - PARTE 1.
+-> 25. Operadores comparativos.
+-> 26. Operadores lógicos.
+-> 27. Estrutura condicional (if-else).
+-> 28. Escopo e inicialização.
+-> 29. Exercícios propostos - PARTE 2.
+-> 30. Funções (sintaxe).
+
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+-> 
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+-> 
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+-> 
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+-> 
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->

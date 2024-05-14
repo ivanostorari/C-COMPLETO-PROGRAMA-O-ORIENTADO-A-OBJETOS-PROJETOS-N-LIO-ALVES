@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\bin\Debug\net6.0\CursoNelioExFix43.exe
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\bin\Debug\net6.0\CursoNelioExFix43.deps.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\bin\Debug\net6.0\CursoNelioExFix43.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\bin\Debug\net6.0\CursoNelioExFix43.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\bin\Debug\net6.0\CursoNelioExFix43.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\refint\CursoNelioExFix43.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\CursoNelioExFix43.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioExFix43\CursoNelioExFix43\obj\Debug\net6.0\ref\CursoNelioExFix43.dll

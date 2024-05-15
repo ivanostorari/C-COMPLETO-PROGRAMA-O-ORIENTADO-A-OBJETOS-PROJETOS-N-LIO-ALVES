@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\bin\Debug\net6.0\CursoNelioAula18.2.exe
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\bin\Debug\net6.0\CursoNelioAula18.2.deps.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\bin\Debug\net6.0\CursoNelioAula18.2.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\bin\Debug\net6.0\CursoNelioAula18.2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\bin\Debug\net6.0\CursoNelioAula18.2.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\refint\CursoNelioAula18.2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\CursoNelioAula18.2.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula18.2\CursoNelioAula18.2\obj\Debug\net6.0\ref\CursoNelioAula18.2.dll

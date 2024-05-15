@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula17\\CursoNelioAula17\\CursoNelioAula17.csproj": {}
+    "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula16.1\\CursoNelioAula17\\CursoNelioAula17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula17\\CursoNelioAula17\\CursoNelioAula17.csproj": {
+    "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula16.1\\CursoNelioAula17\\CursoNelioAula17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula17\\CursoNelioAula17\\CursoNelioAula17.csproj",
+        "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula16.1\\CursoNelioAula17\\CursoNelioAula17.csproj",
         "projectName": "CursoNelioAula17",
-        "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula17\\CursoNelioAula17\\CursoNelioAula17.csproj",
+        "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula16.1\\CursoNelioAula17\\CursoNelioAula17.csproj",
         "packagesPath": "C:\\Users\\ivan.ostorari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula17\\CursoNelioAula17\\obj\\",
+        "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula16.1\\CursoNelioAula17\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

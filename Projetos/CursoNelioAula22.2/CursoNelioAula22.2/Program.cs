@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Aula221
+namespace Aula222
 {
     class Program
     {
@@ -11,8 +11,9 @@ namespace Aula221
             string x = Console.ReadLine();
             string y = Console.ReadLine();
             string z = Console.ReadLine();
-            string s = Console.ReadLine();
-            string[] v = s.Split(' ');
+
+            
+            string[] v = Console.ReadLine().Split(' ');
             string a = v[0];
             string b = v[1];
             string c = v[2];

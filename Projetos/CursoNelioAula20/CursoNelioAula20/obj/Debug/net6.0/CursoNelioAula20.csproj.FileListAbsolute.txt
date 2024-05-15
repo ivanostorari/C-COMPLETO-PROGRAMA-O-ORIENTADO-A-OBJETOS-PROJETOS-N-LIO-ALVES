@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\bin\Debug\net6.0\CursoNelioAula20.exe
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\bin\Debug\net6.0\CursoNelioAula20.deps.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\bin\Debug\net6.0\CursoNelioAula20.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\bin\Debug\net6.0\CursoNelioAula20.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\bin\Debug\net6.0\CursoNelioAula20.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\refint\CursoNelioAula20.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\CursoNelioAula20.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\Projetos\CursoNelioAula20\CursoNelioAula20\obj\Debug\net6.0\ref\CursoNelioAula20.dll

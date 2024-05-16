@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula26.0\\CursoNlelioAula26.0\\CursoNlelioAula26.0.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula26.0\\CursoNlelioAula26.0\\CursoNlelioAula26.0.csproj",
       "projectName": "CursoNlelioAula26.0",
-      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula26.0\\CursoNlelioAula26.0\\CursoNlelioAula26.0.csproj",
+      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula26.0\\CursoNlelioAula26.0\\CursoNlelioAula26.0.csproj",
       "packagesPath": "C:\\Users\\ivan.ostorari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\Projetos\\CursoNelioAula26.0\\CursoNlelioAula26.0\\obj\\",
+      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula26.0\\CursoNlelioAula26.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

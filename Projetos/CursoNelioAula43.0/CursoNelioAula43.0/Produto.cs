@@ -1,5 +1,5 @@
-﻿
-namespace CursoNelioAula430
+﻿using System.Globalization;
+namespace Course
 {
     class Produto
     {

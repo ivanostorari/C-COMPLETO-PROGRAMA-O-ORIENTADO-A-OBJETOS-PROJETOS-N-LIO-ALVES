@@ -1,5 +1,6 @@
 ﻿using System.Globalization;
-namespace CursoNelioAula510
+
+namespace CursoNelioAula520
 {
     class Produto
     {
@@ -12,6 +13,12 @@ namespace CursoNelioAula510
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
+        }
+        public Produto(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5;
         }
 
         public double ValorTotalEmEstoque()

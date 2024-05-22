@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula56.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C280FA5-1BA2-4A56-9115-CDB12965F879}|CursoNelioAula56.0\\CursoNelioAula56.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\cursonelioaula56.0\\cursonelioaula56.0\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C280FA5-1BA2-4A56-9115-CDB12965F879}|CursoNelioAula56.0\\CursoNelioAula56.0.csproj|solutionrelative:cursonelioaula56.0\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C280FA5-1BA2-4A56-9115-CDB12965F879}|CursoNelioAula56.0\\CursoNelioAula56.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\cursonelioaula56.0\\cursonelioaula56.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C280FA5-1BA2-4A56-9115-CDB12965F879}|CursoNelioAula56.0\\CursoNelioAula56.0.csproj|solutionrelative:cursonelioaula56.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C280FA5-1BA2-4A56-9115-CDB12965F879}|CursoNelioAula56.0\\CursoNelioAula56.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\cursonelioaula56.0\\cursonelioaula56.0\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C280FA5-1BA2-4A56-9115-CDB12965F879}|CursoNelioAula56.0\\CursoNelioAula56.0.csproj|solutionrelative:cursonelioaula56.0\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula56.0\\CursoNelioAula56.0\\Produto.cs",
               "RelativeDocumentMoniker": "CursoNelioAula56.0\\Produto.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula56.0\\CursoNelioAula56.0\\Produto.cs",
               "RelativeToolTip": "CursoNelioAula56.0\\Produto.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAzwAIAAAAAAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T20:46:51.002Z",
               "IsPinned": true,
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula56.0\\CursoNelioAula56.0\\Program.cs",
               "RelativeDocumentMoniker": "CursoNelioAula56.0\\Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula56.0\\CursoNelioAula56.0\\Program.cs",
               "RelativeToolTip": "CursoNelioAula56.0\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T20:45:58.957Z",
               "EditorCaption": ""

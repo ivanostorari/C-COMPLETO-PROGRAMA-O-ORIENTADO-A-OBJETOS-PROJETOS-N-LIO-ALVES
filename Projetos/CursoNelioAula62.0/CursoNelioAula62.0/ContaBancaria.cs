@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CursoNelioAula610
+namespace CursoNelioAula620
 {
     class ContaBancaria
     {

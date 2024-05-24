@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\bin\Debug\net6.0\CursoNelioAula77.2.exe
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\bin\Debug\net6.0\CursoNelioAula77.2.deps.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\bin\Debug\net6.0\CursoNelioAula77.2.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\bin\Debug\net6.0\CursoNelioAula77.2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\bin\Debug\net6.0\CursoNelioAula77.2.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\refint\CursoNelioAula77.2.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\CursoNelioAula77.2.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula77.2\CursoNelioAula77.2\obj\Debug\net6.0\ref\CursoNelioAula77.2.dll

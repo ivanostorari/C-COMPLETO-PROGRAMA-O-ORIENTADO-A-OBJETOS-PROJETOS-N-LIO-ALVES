@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula80.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivan.ostorari\\AppData\\Local\\Temp\\.vsdbgsrc\\dccfa63b2fb7fbefad8247b138d44b0728559721a2eefea56f7f8762cfaeaf0a\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728C7D0E-B0D9-4345-9BC4-54590C321B82}|CursoNelioAula80.2\\CursoNelioAula80.2.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\cursonelioaula80.2\\cursonelioaula80.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728C7D0E-B0D9-4345-9BC4-54590C321B82}|CursoNelioAula80.2\\CursoNelioAula80.2.csproj|solutionrelative:cursonelioaula80.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\AppData\\Local\\Temp\\.vsdbgsrc\\dccfa63b2fb7fbefad8247b138d44b0728559721a2eefea56f7f8762cfaeaf0a\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dccfa63b2fb7fbefad8247b138d44b0728559721a2eefea56f7f8762cfaeaf0a\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\AppData\\Local\\Temp\\.vsdbgsrc\\dccfa63b2fb7fbefad8247b138d44b0728559721a2eefea56f7f8762cfaeaf0a\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dccfa63b2fb7fbefad8247b138d44b0728559721a2eefea56f7f8762cfaeaf0a\\Program.cs [Read Only]",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:22:49.194Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula80.2\\CursoNelioAula80.2\\Program.cs",
+              "RelativeDocumentMoniker": "CursoNelioAula80.2\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula80.2\\CursoNelioAula80.2\\Program.cs",
+              "RelativeToolTip": "CursoNelioAula80.2\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:05:53.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\bin\Debug\net6.0\CursoNelioAula89.5.exe
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\bin\Debug\net6.0\CursoNelioAula89.5.deps.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\bin\Debug\net6.0\CursoNelioAula89.5.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\bin\Debug\net6.0\CursoNelioAula89.5.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\bin\Debug\net6.0\CursoNelioAula89.5.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\refint\CursoNelioAula89.5.dll
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.pdb
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\CursoNelioAula89.5.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\CursoNelioAula89.5\CursoNelioAula89.5\obj\Debug\net6.0\ref\CursoNelioAula89.5.dll

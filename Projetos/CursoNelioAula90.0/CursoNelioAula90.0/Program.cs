@@ -1,18 +1,18 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CursoNelioAula8913
+namespace CursoNelioAula900
 {
     class Program
     {
         static void Main(string[] args)
         {
-            DateTime d1 = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture);
-            DateTime d2 = DateTime.ParseExact("15/08/2000 13:05:58", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+
+            TimeSpan t1 = new TimeSpan(0, 1, 30);
 
 
-            Console.WriteLine(d1);
-            Console.WriteLine(d2);
+            Console.WriteLine(t1);
+
         }
     }
 }
@@ -20,5 +20,3 @@ namespace CursoNelioAula8913
 
 
 
-
-Console.WriteLine("Hello, World!");

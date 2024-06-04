@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula92.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBD331A-E012-412C-81BF-4525E51283FD}|CursoNelioAula92.6\\CursoNelioAula92.6.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\cursonelioaula92.6\\cursonelioaula92.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBD331A-E012-412C-81BF-4525E51283FD}|CursoNelioAula92.6\\CursoNelioAula92.6.csproj|solutionrelative:cursonelioaula92.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula92.6\\CursoNelioAula92.6\\Program.cs",
+              "RelativeDocumentMoniker": "CursoNelioAula92.6\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\CursoNelioAula92.6\\CursoNelioAula92.6\\Program.cs",
+              "RelativeToolTip": "CursoNelioAula92.6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:45:17.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

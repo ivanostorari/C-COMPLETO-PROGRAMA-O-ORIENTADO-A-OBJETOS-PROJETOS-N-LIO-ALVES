@@ -4,11 +4,12 @@ namespace CursoNelioAula1290.Entities
 {
     class HourContract
     {
+
         public DateTime Date { get; set; }
         public double ValuePerHour { get; set; }
         public int Hours { get; set; }
 
-        public HourContract () 
+        public HourContract()
         {
         }
 
@@ -19,10 +20,9 @@ namespace CursoNelioAula1290.Entities
             Hours = hours;
         }
 
-        public double TotalValue() 
+        public double TotalValue()
         {
             return Hours * ValuePerHour;
         }
-
     }
 }

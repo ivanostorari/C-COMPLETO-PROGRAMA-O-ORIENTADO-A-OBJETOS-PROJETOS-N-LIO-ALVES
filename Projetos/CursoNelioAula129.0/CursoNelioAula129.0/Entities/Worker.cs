@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
+﻿
 using CursoNelioAula1290.Entities.Enums;
-
+using System.Collections.Generic;
 
 namespace CursoNelioAula1290.Entities
 {
@@ -10,7 +10,7 @@ namespace CursoNelioAula1290.Entities
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
-        public List<HourContract> Contracts { get; set; } = new List<HourContract>();
+        public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
 
         public Worker()
         {
@@ -24,21 +24,22 @@ namespace CursoNelioAula1290.Entities
             Department = department;
         }
 
-        public Worker void AddContract(HourContract contract)
+        public void AddContract(HourContract contract)
         {
-            contract.Add(contract);
-        }
-        public void RemoveContract(HourContract contract)
-        {
-            contracts.Remove(contract);
+            Contracts.Add(contract);
         }
 
-        public double Income(int year, int month);
+        public void RemoveContract(HourContract contract)
+        {
+            Contracts.Remove(contract);
+        }
+
+        public double Income(int year, int month)
         {
             double sum = BaseSalary;
-            foreach (HourContract contract in Contracts) 
+            foreach (HourContract contract in Contracts)
             {
-                if (contract.Date.Year == year && contract.Date.Moth == month) 
+                if (contract.Date.Year == year && contract.Date.Month == month)
                 {
                     sum += contract.TotalValue();
                 }

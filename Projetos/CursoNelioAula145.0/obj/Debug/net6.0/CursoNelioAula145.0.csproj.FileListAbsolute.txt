@@ -1,0 +1,14 @@
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.AssemblyInfo.cs
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\bin\Debug\net6.0\CursoNelioAula145.0.exe
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\bin\Debug\net6.0\CursoNelioAula145.0.deps.json
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\bin\Debug\net6.0\CursoNelioAula145.0.runtimeconfig.json
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\bin\Debug\net6.0\CursoNelioAula145.0.dll
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\bin\Debug\net6.0\CursoNelioAula145.0.pdb
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.dll
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\refint\CursoNelioAula145.0.dll
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.pdb
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\CursoNelioAula145.0.genruntimeconfig.cache
+C:\Users\ivan.ostorari\source\repos\CursoNelioAula145.0\CursoNelioAula145.0\obj\Debug\net6.0\ref\CursoNelioAula145.0.dll

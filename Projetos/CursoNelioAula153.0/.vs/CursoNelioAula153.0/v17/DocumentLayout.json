@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\source\\repos\\CursoNelioAula153.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6454ADD-CBBD-4620-9689-0D694770C676}|CursoNelioAula153.0\\CursoNelioAula153.0.csproj|c:\\users\\ivan.ostorari\\source\\repos\\cursonelioaula153.0\\cursonelioaula153.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6454ADD-CBBD-4620-9689-0D694770C676}|CursoNelioAula153.0\\CursoNelioAula153.0.csproj|solutionrelative:cursonelioaula153.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\source\\repos\\CursoNelioAula153.0\\CursoNelioAula153.0\\Program.cs",
+              "RelativeDocumentMoniker": "CursoNelioAula153.0\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\source\\repos\\CursoNelioAula153.0\\CursoNelioAula153.0\\Program.cs",
+              "RelativeToolTip": "CursoNelioAula153.0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:48:06.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

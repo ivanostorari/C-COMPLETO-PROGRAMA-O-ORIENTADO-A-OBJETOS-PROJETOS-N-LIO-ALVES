@@ -1,7 +1,7 @@
 ﻿using System;
 using tabuleiro;
 
-namespace Projeto_Xadrez_Curso_Nelio_Aula1630
+namespace Projeto_Xadrez_Curso_Nelio_Aula1640
 {
     class Tela
     {

@@ -12,6 +12,8 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1660
 
             Console.WriteLine(pos);
 
+            Console.WriteLine(pos.toPosicao());
+
             Console.ReadLine();
 
         }

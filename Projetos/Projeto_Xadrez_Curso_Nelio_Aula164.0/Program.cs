@@ -15,7 +15,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1640
 
                 tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
                 tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 9));
+                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 2));
 
                 Tela.imprimirTabuleiro(tab);
             }

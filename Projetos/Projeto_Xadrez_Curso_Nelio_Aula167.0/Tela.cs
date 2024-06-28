@@ -19,14 +19,15 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1670
                     }
                     else
                     {
-                        Console.Write(tab.peca(i, j) +" ");
+                        imprimirPeca(tab.peca(i, j));
+                        Console.Write(" ");
                     }
                 }
                 Console.WriteLine();
             }
             Console.WriteLine("  a b c d e f g h");
         }
-        public static void impromirPeca(Peca peca) 
+        public static void imprimirPeca(Peca peca) 
         {
             if (peca.cor == Cor.Branca) 
             {
@@ -35,7 +36,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1670
             else 
             {
                 ConsoleColor aux = Console.ForegroundColor;
-                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.Write(peca);
                 Console.ForegroundColor = aux;
             }

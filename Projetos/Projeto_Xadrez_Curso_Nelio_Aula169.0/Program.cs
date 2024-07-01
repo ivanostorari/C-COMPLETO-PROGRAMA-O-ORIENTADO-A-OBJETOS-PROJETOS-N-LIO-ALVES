@@ -26,7 +26,6 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1690
                     partida.executaMovimento(origem, destino);
                 }
 
-
                 Tela.imprimirTabuleiro(partida.tab);
             }
             catch (TabuleiroException e)

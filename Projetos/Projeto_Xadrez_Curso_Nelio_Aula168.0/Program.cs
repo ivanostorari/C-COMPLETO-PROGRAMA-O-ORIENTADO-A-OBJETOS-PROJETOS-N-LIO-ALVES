@@ -12,8 +12,6 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1680
             {
                 PartidaDeXadrez partida = new PartidaDeXadrez();
                          
-
-
                 Tela.imprimirTabuleiro(partida.tab);
             }
             catch (TabuleiroException e)

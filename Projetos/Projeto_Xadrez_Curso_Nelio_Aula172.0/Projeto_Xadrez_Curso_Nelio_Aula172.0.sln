@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto_Xadrez_Curso_Nelio_Aula171.0", "Projeto_Xadrez_Curso_Nelio_Aula171.0.csproj", "{3780529E-DCE9-4DFD-B75C-60B55E6A4EA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto_Xadrez_Curso_Nelio_Aula172.0", "Projeto_Xadrez_Curso_Nelio_Aula172.0.csproj", "{3780529E-DCE9-4DFD-B75C-60B55E6A4EA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,4 @@
-﻿using tabuleiro;
-
+﻿
 namespace tabuleiro
 {
     abstract class Peca
@@ -18,11 +17,6 @@ namespace tabuleiro
 
         }
         public abstract bool[,] movimentosPossiveis(); 
-           
-   
-        public void incrementarQteMovientos()
-        {
-            qteMovimentos++;
-        }
+                           
     }
 }

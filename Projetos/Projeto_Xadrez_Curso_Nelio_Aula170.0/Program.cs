@@ -11,8 +11,8 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1700
             try
             {
                 PartidaDeXadrez partida = new PartidaDeXadrez();
-                 
-                while (!partida.terminada) 
+
+                while (!partida.terminada)
                 {
                     Console.Clear();
                     Tela.imprimirTabuleiro(partida.tab);
@@ -25,7 +25,6 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1700
 
                     partida.executaMovimento(origem, destino);
                 }
-
 
                 Tela.imprimirTabuleiro(partida.tab);
             }

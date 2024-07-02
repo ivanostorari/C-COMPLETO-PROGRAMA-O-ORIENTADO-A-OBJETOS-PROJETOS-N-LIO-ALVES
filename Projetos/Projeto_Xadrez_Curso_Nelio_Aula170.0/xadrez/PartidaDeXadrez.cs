@@ -8,9 +8,9 @@ namespace xadrez
         public Tabuleiro tab { get; private set; }
         private int turno;
         private Cor jogadorAtual;
-        public bool terminada { get; private set; }    
+        public bool terminada { get; private set; }
 
-        public PartidaDeXadrez() 
+        public PartidaDeXadrez()
         {
             tab = new Tabuleiro(8, 8);
             turno = 1;
@@ -18,16 +18,16 @@ namespace xadrez
             terminada = false;
             colocarPecas();
         }
-        public void executaMovimento(Posicao origem, Posicao destino) 
+        public void executaMovimento(Posicao origem, Posicao destino)
         {
             Peca p = tab.retirarPeca(origem);
             p.incrementarQteMovientos();
             Peca pecaCapturada = tab.retirarPeca(destino);
             tab.colocarPeca(p, destino);
         }
-        private void colocarPecas() 
+        private void colocarPecas()
         {
-            tab.colocarPeca(new Torre(tab, Cor.Branca), new PosicaoXadrez('c',1).toPosicao());
+            tab.colocarPeca(new Torre(tab, Cor.Branca), new PosicaoXadrez('c', 1).toPosicao());
             tab.colocarPeca(new Torre(tab, Cor.Branca), new PosicaoXadrez('c', 2).toPosicao());
             tab.colocarPeca(new Torre(tab, Cor.Branca), new PosicaoXadrez('d', 2).toPosicao());
             tab.colocarPeca(new Torre(tab, Cor.Branca), new PosicaoXadrez('e', 2).toPosicao());

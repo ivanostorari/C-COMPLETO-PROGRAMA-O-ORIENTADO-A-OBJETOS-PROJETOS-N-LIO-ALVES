@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Threading.Channels;
 using tabuleiro;
 using xadrez;
 
 namespace Projeto_Xadrez_Curso_Nelio_Aula1690
-
 {
     class Tela
     {

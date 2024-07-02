@@ -1,5 +1,4 @@
-﻿using tabuleiro;
-
+﻿
 namespace tabuleiro
 {
     abstract class Peca
@@ -17,8 +16,7 @@ namespace tabuleiro
             this.qteMovimentos = 0;
 
         }
-        public abstract bool[,] movimentosPossiveis();
-
-
+        public abstract bool[,] movimentosPossiveis(); 
+                           
     }
 }

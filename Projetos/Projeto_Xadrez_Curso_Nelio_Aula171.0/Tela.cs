@@ -2,7 +2,7 @@
 using tabuleiro;
 using xadrez;
 
-namespace Projeto_Xadrez_Curso_Nelio_Aula1710
+namespace Projeto_Xadrez_Curso_Nelio_Aula1700
 {
     class Tela
     {

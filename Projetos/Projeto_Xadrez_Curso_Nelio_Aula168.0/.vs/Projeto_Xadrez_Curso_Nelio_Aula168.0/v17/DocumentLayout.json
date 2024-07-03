@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula168.0\\tabuleiro\\Peca.cs",
               "RelativeToolTip": "tabuleiro\\Peca.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBkAAAAFAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAABBwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T19:30:56.116Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "tabuleiro\\Tabuleiro.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAiwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T19:17:29.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T19:17:29.717Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T19:24:21.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T19:24:21.104Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T20:42:07.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T20:42:07.77Z"
             }
           ]
         }

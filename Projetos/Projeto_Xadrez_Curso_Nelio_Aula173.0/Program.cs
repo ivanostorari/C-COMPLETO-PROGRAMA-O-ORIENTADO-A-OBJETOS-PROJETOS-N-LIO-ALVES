@@ -2,7 +2,7 @@
 using tabuleiro;
 using xadrez;
 
-namespace Projeto_Xadrez_Curso_Nelio_Aula1720
+namespace Projeto_Xadrez_Curso_Nelio_Aula1730
 {
     class Program
     {

@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Runtime.ConstrainedExecution;
-using System.Threading.Channels;
+using System.Collections.Generic;
 using tabuleiro;
 using xadrez;
 
-namespace Projeto_Xadrez_Curso_Nelio_Aula1720
+namespace Projeto_Xadrez_Curso_Nelio_Aula1730
 {
     class Tela
     {
@@ -29,10 +28,10 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1720
             ConsoleColor fundoOriginal = Console.BackgroundColor;
             ConsoleColor fundoAlterado = ConsoleColor.DarkGray;
 
-            for (int i = 0; i < tab.linhas; i++)
+            for (int i=0; i<tab.linhas; i++)
             {
                 Console.Write(8 - i + " ");
-                for (int j = 0; j < tab.colunas; j++)
+                for (int j=0; j<tab.colunas; j++)
                 {
                     if (posicoePossiveis[i, j])
                     {

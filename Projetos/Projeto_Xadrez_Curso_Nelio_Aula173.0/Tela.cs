@@ -64,7 +64,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1730
 
             if (peca == null)
             {
-                Console.Write(", ");
+                Console.Write("- ");
             }
             else
             {

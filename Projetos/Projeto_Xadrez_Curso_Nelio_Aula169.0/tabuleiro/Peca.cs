@@ -22,6 +22,5 @@ namespace tabuleiro
         {
             qteMovimentos++;
         }
-
     }
 }

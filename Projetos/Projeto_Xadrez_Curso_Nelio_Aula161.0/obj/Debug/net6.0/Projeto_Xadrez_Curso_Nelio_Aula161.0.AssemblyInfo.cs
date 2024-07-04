@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto_Xadrez_Curso_Nelio_Aula161.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4778fcee87bbbcfdf7245d4d132d57cefef8099")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7be5816bdaed18f32a789457feb379c4078a3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto_Xadrez_Curso_Nelio_Aula161.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto_Xadrez_Curso_Nelio_Aula161.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

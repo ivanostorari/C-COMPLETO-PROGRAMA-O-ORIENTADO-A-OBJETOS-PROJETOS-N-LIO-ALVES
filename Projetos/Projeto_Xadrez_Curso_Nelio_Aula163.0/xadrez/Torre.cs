@@ -1,6 +1,5 @@
-﻿using System;
-using tabuleiro;
-using xadrez;
+﻿using tabuleiro;
+
 
 
 namespace xadrez

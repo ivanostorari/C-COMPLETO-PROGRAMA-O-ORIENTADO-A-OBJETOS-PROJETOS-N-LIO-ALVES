@@ -13,8 +13,5 @@
             pecas = new Peca[linhas, colunas];
 
         }
-
-
-
     }
 }

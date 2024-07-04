@@ -36,7 +36,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1670
             else 
             {
                 ConsoleColor aux = Console.ForegroundColor;
-                Console.ForegroundColor = ConsoleColor.Green;
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.Write(peca);
                 Console.ForegroundColor = aux;
             }

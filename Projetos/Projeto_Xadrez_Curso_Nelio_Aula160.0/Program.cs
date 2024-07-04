@@ -11,7 +11,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1600
 
             P = new Posicao(3, 4);
 
-            Console.WriteLine("Posicao:  + P");
+            Console.WriteLine("Posicao: " + P);
 
             Console.ReadLine();
 

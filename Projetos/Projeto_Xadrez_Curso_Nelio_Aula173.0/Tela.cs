@@ -41,8 +41,8 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1730
                     {
                         Console.BackgroundColor= fundoOriginal;
                     }
-                     imprimirPeca(tab.peca(i, j));
-                    
+                    imprimirPeca(tab.peca(i, j));
+                    Console.BackgroundColor = fundoOriginal;
                 }
                 Console.WriteLine();
             }

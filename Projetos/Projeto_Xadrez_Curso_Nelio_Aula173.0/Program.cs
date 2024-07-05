@@ -26,6 +26,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1730
                     Console.Clear();
                     Tela.imprimirTabuleiro(partida.tab, posicaoPossieis);
 
+                    Console.WriteLine();
                     Console.Write("Destino: ");
                     Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
 

@@ -16,6 +16,10 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1740
                 {
                     Console.Clear();
                     Tela.imprimirTabuleiro(partida.tab);
+                    Console.WriteLine();
+                    Console.WriteLine("Turno: " + partida.turno);
+                    Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
+
 
                     Console.WriteLine();
                     Console.Write("Origem: ");
@@ -30,7 +34,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1740
                     Console.Write("Destino: ");
                     Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
 
-                    partida.executaMovimento(origem, destino);
+                    partida.realizaJogada(origem, destino);
                 }
 
                 Tela.imprimirTabuleiro(partida.tab);

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using tabuleiro;
 using xadrez;
 
@@ -9,10 +8,10 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1750
     {
         public static void imprimirTabuleiro(Tabuleiro tab)
         {
-            for (int i = 0; i < tab.linhas; i++)
+            for (int i=0; i<tab.linhas; i++)
             {
                 Console.Write(8 - i + " ");
-                for (int j = 0; j < tab.colunas; j++)
+                for (int j=0; j<tab.colunas; j++)
                 {
                     {
                         imprimirPeca(tab.peca(i, j));
@@ -28,10 +27,10 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1750
             ConsoleColor fundoOriginal = Console.BackgroundColor;
             ConsoleColor fundoAlterado = ConsoleColor.DarkGray;
 
-            for (int i = 0; i < tab.linhas; i++)
+            for (int i=0; i<tab.linhas; i++)
             {
                 Console.Write(8 - i + " ");
-                for (int j = 0; j < tab.colunas; j++)
+                for (int j=0; j<tab.colunas; j++)
                 {
                     if (posicoePossiveis[i, j])
                     {

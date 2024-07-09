@@ -36,6 +36,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1760
                         Console.WriteLine();
                         Console.Write("Destino: ");
                         Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
+                        partida.validarPosicaoDeDestino(origem, destino);
 
                         partida.realizaJogada(origem, destino);
                     }
@@ -53,7 +54,6 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1760
             }
 
             Console.ReadLine();
-
         }
     }
 }

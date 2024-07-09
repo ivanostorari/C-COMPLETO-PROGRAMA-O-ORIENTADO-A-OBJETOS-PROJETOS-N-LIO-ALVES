@@ -40,7 +40,7 @@ namespace xadrez
             {
                 throw new TabuleiroException("Não existe peca na posicao de origem escolhida!");
             } 
-            if(jogadorAtual != tab.peca(pos).cor) 
+            if (jogadorAtual != tab.peca(pos).cor) 
             {
                 throw new TabuleiroException("A peca de origem escolhida não é sua!"); 
             }
@@ -61,7 +61,6 @@ namespace xadrez
             {
                 jogadorAtual = Cor.Branca;
             }
-
         }
 
         private void colocarPecas()
@@ -80,7 +79,5 @@ namespace xadrez
             tab.colocarPeca(new Torre(tab, Cor.Preta), new PosicaoXadrez('e', 8).toPosicao());
             tab.colocarPeca(new Rei(tab, Cor.Preta), new PosicaoXadrez('d', 8).toPosicao());
         }
-
-
     }
 }

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula176.0\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DF5A618-817D-40DE-A885-1E1E5B5B0D10}|Projeto_Xadrez_Curso_Nelio_Aula176.0.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,63 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Torre.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Torre.cs",
-              "RelativeDocumentMoniker": "xadrez\\Torre.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Torre.cs",
-              "RelativeToolTip": "xadrez\\Torre.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwEsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T21:01:36.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rei.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Rei.cs",
-              "RelativeDocumentMoniker": "xadrez\\Rei.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Rei.cs",
-              "RelativeToolTip": "xadrez\\Rei.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAwwE0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T21:01:10.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PosicaoXadrez.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\PosicaoXadrez.cs",
               "RelativeDocumentMoniker": "xadrez\\PosicaoXadrez.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\PosicaoXadrez.cs",
               "RelativeToolTip": "xadrez\\PosicaoXadrez.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA9wBkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T21:00:47.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PartidaDeXadrez.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\PartidaDeXadrez.cs",
               "RelativeDocumentMoniker": "xadrez\\PartidaDeXadrez.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\PartidaDeXadrez.cs",
               "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAA3wDYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T21:00:17.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TabuleiroException.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\TabuleiroException.cs",
               "RelativeDocumentMoniker": "tabuleiro\\TabuleiroException.cs",
@@ -123,20 +97,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rei.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Rei.cs",
+              "RelativeDocumentMoniker": "xadrez\\Rei.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Rei.cs",
+              "RelativeToolTip": "xadrez\\Rei.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:01:10.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Torre.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Torre.cs",
+              "RelativeDocumentMoniker": "xadrez\\Torre.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\xadrez\\Torre.cs",
+              "RelativeToolTip": "xadrez\\Torre.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:01:36.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:51:04.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Tela.cs",
+              "RelativeDocumentMoniker": "Tela.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Tela.cs",
+              "RelativeToolTip": "Tela.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAzwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:55:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "tabuleiro\\Peca.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:57:57.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "tabuleiro\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Tabuleiro.cs",
               "RelativeToolTip": "tabuleiro\\Tabuleiro.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAwwEkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T20:59:01.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Posicao.cs",
               "RelativeDocumentMoniker": "tabuleiro\\Posicao.cs",
@@ -149,20 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Peca.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Peca.cs",
-              "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Peca.cs",
-              "RelativeToolTip": "tabuleiro\\Peca.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:57:57.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Cor.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\tabuleiro\\Cor.cs",
               "RelativeDocumentMoniker": "tabuleiro\\Cor.cs",
@@ -171,32 +197,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T20:57:29.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tela.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Tela.cs",
-              "RelativeDocumentMoniker": "Tela.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Tela.cs",
-              "RelativeToolTip": "Tela.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:55:24.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula176.0\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T20:51:04.214Z",
               "EditorCaption": ""
             }
           ]

@@ -48,7 +48,14 @@ namespace xadrez
             {
                 throw new TabuleiroException("Não há movimentos possíveis para a peca de origem escolhida");
             }
+        }
 
+        public void validarPosicaoDeDestino(Posicao origem, Posicao destino) 
+        {
+            if (!tab.peca(origem).podeMoverPara(destino)) 
+            {
+                throw new TabuleiroException("Posicao de destino inválida!"); 
+            } 
         }
 
         private void mudaJogador()
@@ -61,7 +68,6 @@ namespace xadrez
             {
                 jogadorAtual = Cor.Branca;
             }
-
         }
 
         private void colocarPecas()
@@ -80,7 +86,5 @@ namespace xadrez
             tab.colocarPeca(new Torre(tab, Cor.Preta), new PosicaoXadrez('e', 8).toPosicao());
             tab.colocarPeca(new Rei(tab, Cor.Preta), new PosicaoXadrez('d', 8).toPosicao());
         }
-
-
     }
 }

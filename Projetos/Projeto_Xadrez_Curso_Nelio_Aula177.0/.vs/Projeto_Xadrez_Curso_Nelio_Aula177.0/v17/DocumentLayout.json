@@ -58,21 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PartidaDeXadrez.cs",
-              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula177.0\\xadrez\\PartidaDeXadrez.cs",
-              "RelativeDocumentMoniker": "xadrez\\PartidaDeXadrez.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula177.0\\xadrez\\PartidaDeXadrez.cs",
-              "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAA9wIAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:47:05.184Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -83,8 +70,7 @@
               "RelativeToolTip": "tabuleiro\\TabuleiroException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:45:06.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:45:06.378Z"
             },
             {
               "$type": "Document",
@@ -96,8 +82,7 @@
               "RelativeToolTip": "tabuleiro\\Tabuleiro.cs",
               "ViewState": "AQIAADgAAAAAAAAAAADwvz4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:43:49.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:43:49.209Z"
             },
             {
               "$type": "Document",
@@ -109,8 +94,7 @@
               "RelativeToolTip": "tabuleiro\\Cor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:42:22.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:42:22.05Z"
             },
             {
               "$type": "Document",
@@ -122,8 +106,7 @@
               "RelativeToolTip": "tabuleiro\\Peca.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAswCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:42:45.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:42:45.773Z"
             },
             {
               "$type": "Document",
@@ -135,8 +118,7 @@
               "RelativeToolTip": "tabuleiro\\Posicao.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAswBAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:43:31.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:43:31.699Z"
             },
             {
               "$type": "Document",
@@ -148,8 +130,7 @@
               "RelativeToolTip": "xadrez\\PosicaoXadrez.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAABEwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:48:02.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:48:02.374Z"
             },
             {
               "$type": "Document",
@@ -161,8 +142,7 @@
               "RelativeToolTip": "xadrez\\Rei.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAwwEQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:48:33.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:48:33.153Z"
             },
             {
               "$type": "Document",
@@ -179,6 +159,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartidaDeXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula177.0\\xadrez\\PartidaDeXadrez.cs",
+              "RelativeDocumentMoniker": "xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula177.0\\xadrez\\PartidaDeXadrez.cs",
+              "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAA9wIAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:47:05.184Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Tela.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula177.0\\Tela.cs",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "Tela.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T19:40:39.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T19:40:39.07Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAwwDIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T20:50:52.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T20:50:52.912Z"
             },
             {
               "$type": "Document",

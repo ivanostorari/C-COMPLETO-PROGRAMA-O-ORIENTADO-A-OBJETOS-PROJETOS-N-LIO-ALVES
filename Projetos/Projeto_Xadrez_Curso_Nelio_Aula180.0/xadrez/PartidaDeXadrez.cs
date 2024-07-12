@@ -56,7 +56,7 @@ namespace xadrez
             if (estaEmXeque(jogadorAtual)) 
             {
                 desfazMovimento(origem, destino, pecaCapturada);
-                throw new TabuleiroException("Você não se colocar em xeque!");
+                throw new TabuleiroException("Você não pode se colocar em xeque!");
             }
             if (estaEmXeque(adversaria(jogadorAtual))) 
             {

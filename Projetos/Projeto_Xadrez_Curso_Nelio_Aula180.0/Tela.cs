@@ -32,8 +32,6 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1800
             imprimirConjunto(partida.pecasCapturadas(Cor.Preta));
             Console.ForegroundColor = aux;
             Console.WriteLine();
-
-
         }
         public static void imprimirConjunto(HashSet<Peca> conjunto) 
         {

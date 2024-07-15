@@ -58,6 +58,7 @@ namespace xadrez
                 desfazMovimento(origem, destino, pecaCapturada);
                 throw new TabuleiroException("Você não pode se colocar em xeque!");
             }
+            
             if (estaEmXeque(adversaria(jogadorAtual))) 
             {
                 xeque = true;    
@@ -161,7 +162,7 @@ namespace xadrez
             Peca R = rei(cor);
             if (R == null) 
             {
-                throw new TabuleiroException("Não tem rei da cor " + cor " no tabuleiro!");
+                throw new TabuleiroException("Não tem rei da cor " + cor + " no tabuleiro!");
             }
             foreach (Peca x in pecasEmJogo(adversaria(cor)))
             {

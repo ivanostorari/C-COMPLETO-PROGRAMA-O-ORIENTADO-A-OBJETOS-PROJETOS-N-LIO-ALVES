@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using tabuleiro;
 using xadrez;
 
-namespace Projeto_Xadrez_Curso_Nelio_Aula1850
+namespace Projeto_Xadrez_Curso_Nelio_Aula1840
 {
     class Tela
     {

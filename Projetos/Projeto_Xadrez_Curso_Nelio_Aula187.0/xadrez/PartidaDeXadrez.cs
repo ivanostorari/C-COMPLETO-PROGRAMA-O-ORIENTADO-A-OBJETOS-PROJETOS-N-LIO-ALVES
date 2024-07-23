@@ -34,9 +34,27 @@ namespace xadrez
             {
                 capturadas.Add(pecaCapturada);
             }
+            // #jogadorespecial roque pequeno
+            if (p is Rei && destino.coluna == origem.coluna + 2)
+            {
+                Posicao origemT = new Posicao(origem.linha, origem.coluna + 3);
+                Posicao destinoT = new Posicao(origem.linha, origem.coluna + 1);
+                Peca T = tab.retirarPeca(origemT);
+                T.incrementarQteMovientos();
+                tab.colocarPeca(T, destinoT);
+            }
+
+            // #jogadorespecial roque grande
+            if (p is Rei && destino.coluna == origem.coluna - 2)
+            {
+                Posicao origemT = new Posicao(origem.linha, origem.coluna - 4);
+                Posicao destinoT = new Posicao(origem.linha, origem.coluna - 1);
+                Peca T = tab.retirarPeca(origemT);
+                T.incrementarQteMovientos();
+                tab.colocarPeca(T, destinoT);
+            }
             return pecaCapturada;
         }
-
         public void desfazMovimento(Posicao origem, Posicao destino, Peca pecaCapturada) 
         {
             Peca p = tab.retirarPeca(destino);
@@ -47,6 +65,27 @@ namespace xadrez
                 capturadas.Remove(pecaCapturada);
             }
             tab.colocarPeca(p, origem);
+
+            // #jogadorespecial roque pequeno
+            if (p is Rei && destino.coluna == origem.coluna + 2)
+            {
+                Posicao origemT = new Posicao(origem.linha, origem.coluna + 3);
+                Posicao destinoT = new Posicao(origem.linha, origem.coluna + 1);
+                Peca T = tab.retirarPeca(origemT);
+                T.decrementarQteMovientos();
+                tab.colocarPeca(T, destinoT);
+            }
+
+            // #jogadorespecial roque grande
+            if (p is Rei && destino.coluna == origem.coluna - 2)
+            {
+                Posicao origemT = new Posicao(origem.linha, origem.coluna - 4);
+                Posicao destinoT = new Posicao(origem.linha, origem.coluna -1);
+                Peca T = tab.retirarPeca(origemT);
+                T.decrementarQteMovientos();
+                tab.colocarPeca(T, destinoT);
+            }
+
         }
 
         public void realizaJogada(Posicao origem, Posicao destino)

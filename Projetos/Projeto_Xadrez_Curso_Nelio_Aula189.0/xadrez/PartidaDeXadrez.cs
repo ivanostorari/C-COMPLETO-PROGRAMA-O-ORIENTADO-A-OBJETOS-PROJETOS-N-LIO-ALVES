@@ -118,7 +118,7 @@ namespace xadrez
                 mudaJogador();
             }
             Peca p = tab.peca(destino);
-            // #jodada especial em passant
+            // #jodadaespecial em passant
             if (p is Peao && (destino.linha == origem.linha -2 || destino.linha == origem.linha + 2)) 
             {
                 vulneravelEnPassant = p;

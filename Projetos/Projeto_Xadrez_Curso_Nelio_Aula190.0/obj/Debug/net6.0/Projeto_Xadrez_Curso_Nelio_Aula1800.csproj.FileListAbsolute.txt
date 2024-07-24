@@ -1,0 +1,5 @@
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\Projeto_Xadrez_Curso_Nelio_Aula180.0\obj\Debug\net6.0\Projeto_Xadrez_Curso_Nelio_Aula1800.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\Projeto_Xadrez_Curso_Nelio_Aula180.0\obj\Debug\net6.0\Projeto_Xadrez_Curso_Nelio_Aula1800.AssemblyInfoInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\Projeto_Xadrez_Curso_Nelio_Aula180.0\obj\Debug\net6.0\Projeto_Xadrez_Curso_Nelio_Aula1800.AssemblyInfo.cs
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\Projeto_Xadrez_Curso_Nelio_Aula180.0\obj\Debug\net6.0\Projeto_Xadrez_Curso_Nelio_Aula1800.csproj.CoreCompileInputs.cache
+C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\Projeto_Xadrez_Curso_Nelio_Aula180.0\obj\Debug\net6.0\Projeto_Xadrez_Curso_Nelio_Aula1800.sourcelink.json

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "xadrez\\Peao.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula190.0\\xadrez\\Peao.cs",
               "RelativeToolTip": "xadrez\\Peao.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAxwFcAAAABAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAywFcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T18:09:15.035Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
               "ViewState": "AQIAAHMAAAAAAAAAAAAmwIIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T18:08:13.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T18:08:13.219Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Tela.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T18:06:41.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T18:06:41.94Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T17:57:07.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T17:57:07.074Z"
             }
           ]
         }

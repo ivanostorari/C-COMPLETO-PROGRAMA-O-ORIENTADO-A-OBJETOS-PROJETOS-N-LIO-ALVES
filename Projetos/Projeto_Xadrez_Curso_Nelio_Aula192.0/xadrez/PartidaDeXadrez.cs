@@ -142,7 +142,7 @@ namespace xadrez
                 throw new TabuleiroException("Você não pode se colocar em xeque!");
             }
 
-            Peca p = tab.peca(destino);
+            
 
             // #jogadaespecial promocao
             if (p is Peao)
@@ -175,6 +175,8 @@ namespace xadrez
                 turno++;
                 mudaJogador();
             }
+
+            Peca p = tab.peca(destino);
 
             // #jogadaespecial en passant
             if (p is Peao && (destino.linha == origem.linha - 2 || destino.linha == origem.linha + 2))

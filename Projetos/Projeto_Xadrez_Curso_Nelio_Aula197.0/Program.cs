@@ -7,7 +7,7 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1970
     {
         static void Main(string[] args)
         {
-            string path = 
+            string path = @"C:\Users\ivan.ostorari\Desktop\C# COMPLETO PROGRAMAÇÃO ORIENTADO A OBJETOS + PROJETOS NÉLIO ALVES\PROJETOS\Projetos\Projeto_Xadrez_Curso_Nelio_Aula197.0\temp\file1.txt";
             try
             {
                 using (StreamReader sr = File.OpenText(path))
@@ -26,3 +26,4 @@ namespace Projeto_Xadrez_Curso_Nelio_Aula1970
             }
         }
     }
+}

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\services\\braziltexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:services\\braziltexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\projeto_xadrez_curso_nelio_aula204.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:projeto_xadrez_curso_nelio_aula204.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|c:\\users\\ivan.ostorari\\desktop\\c# completo programa\u00E7\u00E3o orientado a objetos \u002B projetos n\u00E9lio alves\\projetos\\projetos\\projeto_xadrez_curso_nelio_aula204.0\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37554F14-D1D4-4359-B1B7-2C0387CCF652}|Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj|solutionrelative:entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Services\\RentalService.cs",
+              "RelativeToolTip": "Services\\RentalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:58:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrazilTexService.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Services\\BrazilTexService.cs",
+              "RelativeDocumentMoniker": "Services\\BrazilTexService.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Services\\BrazilTexService.cs",
+              "RelativeToolTip": "Services\\BrazilTexService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:54:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projeto_Xadrez_Curso_Nelio_Aula204.0",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj",
+              "RelativeDocumentMoniker": "Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj",
+              "RelativeToolTip": "Projeto_Xadrez_Curso_Nelio_Aula204.0.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T19:53:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Entities\\CarRental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:10:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:51:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:47:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\C# COMPLETO PROGRAMA\u00C7\u00C3O ORIENTADO A OBJETOS \u002B PROJETOS N\u00C9LIO ALVES\\PROJETOS\\Projetos\\Projeto_Xadrez_Curso_Nelio_Aula204.0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:35:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
